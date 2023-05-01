@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the vie
         print("Hola mundo")
         print("Hola mundo2")
+        print("Hola mundo")
+        print("Hola mundo2")
     }
 
 
